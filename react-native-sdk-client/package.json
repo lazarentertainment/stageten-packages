@@ -1,0 +1,18 @@
+{
+  "name": "@lazarentertainment/react-native-sdk-client",
+  "version": "1.0.5",
+  "description": "React Native client for Stage TEN services",
+  "repository": "https://github.com/lazarentertainment/stageten-packages.git",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "author": "Stage TEN Inc.",
+  "license": "MIT",
+  "homepage": "https://github.com/lazarentertainment/stageten-packages/react-native-sdk-client",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.67.4",
+    "react-native-webview": "^11.17.2"
+  }
+}
